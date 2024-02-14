@@ -10,6 +10,7 @@ if cevap1 == "y":
     devam = 1
 else:
     print("Tamamdır.Hoşçakal")
+    input()
 
 while devam == 1:
     
